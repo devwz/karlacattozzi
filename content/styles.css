@@ -3,7 +3,9 @@
     background-color: #672853;
 }
 
-html, body, .main-height {
+html,
+body,
+.cover {
     height: 100%;
 }
 
@@ -13,12 +15,11 @@ body
     overflow-x: hidden;
 }
 
-.main-height {
+.cover {
     display: table;
-    width: 100%;
 }
 
-.main-height-text {
+.cover-container {
     text-align: center;
     display: table-cell;
     vertical-align: middle;
