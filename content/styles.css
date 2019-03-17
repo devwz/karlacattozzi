@@ -31,7 +31,7 @@ body
 
 .dg-title {
     font-family: 'Edwardian Script ITC';
-    src: url(../font/Edwardian\ Script\ ITC.TTF);
+    src: url('../font/Edwardian Script ITC.TTF');
     font-size: 72px;
 }
 
