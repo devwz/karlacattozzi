@@ -29,9 +29,13 @@ body
     margin-top: 52px;
 }
 
+@font-face {
+    font-family: 'Edwardian Script ITC';
+    src: url('../font/Edwardian Script ITC.ttf') format('truetype');
+}
+
 .dg-title {
     font-family: 'Edwardian Script ITC';
-    src: url('../font/Edwardian Script ITC.TTF');
     font-size: 72px;
 }
 
