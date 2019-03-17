@@ -49,3 +49,9 @@ body
     margin-top: 52px;
     margin-bottom: 52px;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
