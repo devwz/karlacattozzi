@@ -44,3 +44,8 @@ body
         font-size: 32px;
     }
 }
+
+.product-title {
+    margin-top: 52px;
+    margin-bottom: 52px;
+}
