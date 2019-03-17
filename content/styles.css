@@ -24,3 +24,19 @@ body
     display: table-cell;
     vertical-align: middle;
 }
+
+.cover-container img {
+    margin-top: 52px;
+}
+
+.dg-title {
+    font-family: 'Edwardian Script ITC';
+    src: url(../font/Edwardian\ Script\ ITC.TTF);
+    font-size: 72px;
+}
+
+@media (max-width: 600px) {
+    .dg-title {
+        font-size: 32px;
+    }
+}
